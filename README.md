@@ -11,7 +11,7 @@ Mobile App Developer with 5+ years of experience in Flutter and cross-platform a
 
 ## 🚀 Featured Projects
 
-- **[Kedai Mart](https://github.com/fajar773/smart-task-manager)**  
+- **[Smart Task Manager](https://github.com/fajar773/smart-task-manager)**  
   Task manager App with Firebase integration.
 
 ## 🎯 Current Focus
